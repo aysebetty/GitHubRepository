@@ -11,6 +11,10 @@ public class Class01 {
 
         //versiyon 2
         System.out.println("versiyon 2 kodlari");
+
+
+        //versiyon 3
+        System.out.println("versiyon 3 kodlari");
     }
 
 
@@ -21,7 +25,7 @@ git init :
 git add . : gecici alana staging area eklenir
 git commit -m"versiyon1"
 git status : son durumu gor
- git log --oneline
+ git log --oneline  : versiyon olusturma sirasini gosterir
 git show versiyon linki :
 git commit --amend -"versiyon yeni ismi"
 git restore  : working spacedeki  tek bir dosyayi geri alir
