@@ -8,6 +8,9 @@ public class Class01 {
         System.out.println("versiyon 1 kodlari ");
 
 
+
+        //versiyon 2
+        System.out.println("versiyon 2 kodlari");
     }
 
 
